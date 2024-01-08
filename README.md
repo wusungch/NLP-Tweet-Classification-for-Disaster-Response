@@ -17,8 +17,8 @@ Model Selection: Different machine learning models, including Ridge Regression, 
 
 **Model Evaluation**: Model performance was assessed using the F1 score, a measure of a test's accuracy.
 Pipeline Implementation: A pipeline combining TF-IDF vectorization and the SVM model was developed for efficient model training and prediction.
-Results
 
+# Results
 The SVM model achieved an F1 score of 0.8014, demonstrating its efficacy in accurately categorizing tweets.
 
 # Technologies
