@@ -21,12 +21,12 @@ Results
 
 The SVM model achieved an F1 score of 0.8014, demonstrating its efficacy in accurately categorizing tweets.
 
-**Technologies**
+# Technologies
 Python
 Libraries: Pandas, NumPy, Scikit-learn, spaCy
 Matplotlib (for exploratory data analysis)
 
-**Future Directions**
+# Future Directions
 Explore advanced NLP techniques like word embeddings and deep learning models.
 Conduct extensive hyperparameter tuning for model optimization.
 Investigate the application of the model in a real-time tweet analysis system.
